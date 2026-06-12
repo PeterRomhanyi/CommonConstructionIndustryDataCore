@@ -5,10 +5,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Project Identity
 
 - **App name:** CommonConstructionIndustryDataCore
-- **Publisher:** Default Publisher
+- **Publisher:** Loginform Kft
 - **Target:** BC 28 (application 28.0.0.0, runtime 17.0), Cloud
 - **Object ID range:** 50100–50149
-- **Namespace:** `DefaultPublisher.CommonConstructionIndustryDataCore`
+- **Namespace:** `Loginform.CommonConstructionIndustryDataCore`
 - **Feature flags:** `NoImplicitWith` — all `Rec.` prefixes are mandatory
 
 ## Object Prefix: CCI
