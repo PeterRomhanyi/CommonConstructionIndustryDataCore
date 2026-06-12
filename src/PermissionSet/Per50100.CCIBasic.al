@@ -18,5 +18,8 @@ permissionset 50100 "CCI-BASIC"
         tabledata "CCI Location Writings" = R,
         tabledata "CCI Resource Qualification" = RIMD,
         tabledata "CCI Location Qualification" = RIMD,
-        tabledata "CCI Resource Connection" = RIMD;
+        tabledata "CCI Resource Connection" = RIMD,
+        tabledata "CCI Conduct Header" = RIMD,
+        tabledata "CCI Conduct Line" = RIMD,
+        tabledata "CCI Conduct Log" = R;
 }
