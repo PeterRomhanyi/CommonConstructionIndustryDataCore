@@ -9,5 +9,7 @@ permissionset 50101 "CCI-ADMIN"
         tabledata "CCI Job Title" = RIMD,
         tabledata "CCI Job Group" = RIMD,
         tabledata "CCI Owner" = RIMD,
-        tabledata "CCI Service Type" = RIMD;
+        tabledata "CCI Service Type" = RIMD,
+        tabledata "CCI Machine Writings" = RIMD,
+        tabledata "CCI Location Writings" = RIMD;
 }

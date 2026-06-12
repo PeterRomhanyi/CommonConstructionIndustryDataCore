@@ -13,5 +13,9 @@ permissionset 50100 "CCI-BASIC"
         tabledata "CCI Employee Issued Equipment" = RIMD,
         tabledata "CCI Job Title Item Connection" = R,
         tabledata "CCI Service Header" = RIMD,
-        tabledata "CCI Service Line" = RIMD;
+        tabledata "CCI Service Line" = RIMD,
+        tabledata "CCI Machine Writings" = R,
+        tabledata "CCI Location Writings" = R,
+        tabledata "CCI Resource Qualification" = RIMD,
+        tabledata "CCI Location Qualification" = RIMD;
 }
